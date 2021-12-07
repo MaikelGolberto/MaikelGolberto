@@ -1,4 +1,4 @@
-<h1>Eai, eu sou o Maikel Golberto</h1>
+<h3>Eai, eu sou o Maikel Golberto</h3>
 
 - 🔭 Estudando Ciências da Computação
 - 🌱 Aprendendo a linguagem Java
